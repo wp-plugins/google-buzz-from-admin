@@ -1,4 +1,4 @@
-=== Browser Counter ===
+=== Google Buzz From Admin ===
 Contributors: Abbas Suterwala
 Donate link:http://www.abbassuterwala.com
 Tags: Google Buzz,Buzz,Google,Share,Socail Networking,Bookmarking
