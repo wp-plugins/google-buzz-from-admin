@@ -16,7 +16,7 @@ directly from the Post edit page allows you to share it with others on your Goog
 
 == Installation ==
 
-1. Upload Folder 'GoogleBuzzAdmin' to the `/wp-content/plugins/` directory
+1. Upload Folder 'google-buzz-from-admin' to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. You are Ready :)
 
