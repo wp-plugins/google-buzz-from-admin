@@ -26,7 +26,7 @@ function GBuzzAdmin_add_custom_box() {
    
 /* 
 This function retrieves the last Post which is save in Wordpress and 
-Gives a link which one can use to publish to Google Buzz
+Gives a link which one can use to publish to Google Buzz. This link will publish the post to google buzz
 */
 
 function GBuzzAdmin_inner_add_custom_box() 
